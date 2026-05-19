@@ -1,0 +1,8 @@
+variable mensaje = "test";
+función duplicarTexto[t] {
+    variable resultado = t + t;
+    devolver resultado;
+}
+variable final;
+final = duplicarTexto[mensaje];
+imprimir(final);

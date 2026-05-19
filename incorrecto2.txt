@@ -1,0 +1,2 @@
+variable correo = "test@test.com";
+variable @invalida = "error";
